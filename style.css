@@ -37,7 +37,7 @@
   .my-logo {
     color: var(--Primary-B400, #6070ff);
     text-align: center;
-    font-family: Poppins;
+    font-family: "Poppins",serif,Arial;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -46,7 +46,7 @@
 
   .info-me h1 {
     color: var(--Neutrals-N800, #172b4d);
-    font-family: Poppins;
+    font-family: "Poppins",serif,Arial;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -59,7 +59,7 @@
     margin-top: -25px;
     padding-left: 32px;
     color: var(--Neutrals-N600, #344563);
-    font-family: Poppins;
+    font-family: "Poppins",serif,Arial;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -69,7 +69,7 @@
   .connect {
     color: var(--Primary-B300, #7f8cff);
     padding-left: 32px;
-    font-family: Poppins;
+    font-family: "Poppins",serif,Arial;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
