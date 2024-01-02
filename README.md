@@ -63,9 +63,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio-Setup-And-Mobile] <a name="Portfolio-Setup-And-Mobile"></a>
+# 📖 [Portfolio-finish-mobile-version] <a name="Portfolio-finish-mobile-version"></a>
 
-**[Portfolio-Setup-And-Mobile]** is a sencond project in Microverse in which we have a chance to work with linter.
+**[Portfolio-finish-mobile-version]** is a third project in Microverse in which we have a chance to work with linter.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -138,8 +138,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd Portfolio-Setup-and-Mobile
-  git clone git@github.com:hsumyatthu7/Portfolio-Setup-and-Mobile.git
+  cd Portfolio-finish-mobile-version
+  git git@github.com:hsumyatthu7/Portfolio-finish-mobile-version.git
 ```
 
 -
@@ -151,7 +151,7 @@ Install this project with:
 Example command:
 
 ```sh
-  cd Portfolio-Setup-and-Mobile
+  cd Portfolio-finish-mobile-version
   npm install
 ```
 
@@ -224,7 +224,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/hsumyatthu7/Portfolio-Setup-and-Mobile/issues](../../issues/).
+Feel free to check the [https://github.com/hsumyatthu7/Portfolio-finish-mobile-version/issues](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,7 +240,7 @@ If you like this project, please follow my github and linkedIn accounts.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank to my coding partner Htein Aung Win.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
