@@ -549,7 +549,6 @@
   .send-mail {
     width: 75%;
     height: auto;
-    margin-top: 30px;
     padding: 15px 38px 15px 16px;
     margin-top: 20px;
     flex-shrink: 0;
@@ -633,7 +632,7 @@
     flex-shrink: 0; 
   }
 
-   .indicator .shape-bar {
+  .indicator .shape-bar {
     width: 134px;
     height: 5px;
     flex-shrink: 0;
